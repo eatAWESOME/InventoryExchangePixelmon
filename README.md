@@ -1,3 +1,7 @@
+# Archived
+
+This add-on was merged into InventoryExchange 2.0.0 and is no longer being developed separately.
+
 # InventoryExchangePixelmon
 
 Add-on to [InventoryExchange](https://github.com/eatAWESOME/InventoryExchange) for [Pixelmon](https://reforged.gg).
